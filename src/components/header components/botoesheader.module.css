@@ -1,0 +1,38 @@
+.botoesheader{
+    justify-content: center;
+    width: 600px;
+    text-align: center;
+}
+.botaocadastrar{
+    background-color: #5D50C6;
+    width: 150px;
+    height: 50px;
+    border-radius: 40px;
+    border: white;
+    color: white;
+    margin-top: 30px;
+}
+.botaoentrar{
+    background-color: white;
+    width: 150px;
+    height: 50px;
+    border-radius: 40px;
+    border: white;
+}
+.botaoentrar:hover{
+    background-color: red;
+    width: 150px;
+    height: 50px;
+    border-radius: 40px;
+    border: white;
+
+}
+.botaocadastrar:hover{
+    background-color: red;
+    width: 150px;
+    height: 50px;
+    border-radius: 40px;
+    border: white;
+    color: white;
+    margin-top: 30px;
+}

@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+}
+.divizona{
+    background-color: grey;
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    height: 30rem;
+}
+.divsemfotos{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: block;
+    width: 45%;
+}
+.divcomfotos{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    width: 55%;
+}
+.h1{
+    margin-top:6rem;
+    font-size: 5rem;
+}
+.span{
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+}
+.botao{
+    margin-top: 20px;
+    color: white;
+    background-color: #5D50C6;
+    width: 150px;
+    height: 50px;
+    border-radius: 40px;
+    border: white;
+}
+.botao:hover{
+    color: white;
+    background-color: red;
+    width: 150px;
+    height: 50px;
+    border-radius: 40px;
+}
+.Imgs{
+    padding: 7px;
+    margin-top: 2.5rem;
+    width: 20rem;
+    height: 20rem;
+}

@@ -1,0 +1,53 @@
+.divizona{
+    background-color: rgb(118, 118, 118);
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    height: 8rem;
+    width: 100%;
+}
+.divinsta{
+    width: 33%;
+    display: flex;
+}
+.divwhatsapp{
+    width: 33%;
+    display: flex;
+}
+.divtwitter{
+    width: 33%;
+    display: flex;
+}
+.img1{
+    margin-left: 150px;
+    margin-top: 15px;
+    width: max-content;
+    border-radius: 30px;
+}
+.img2{
+    margin-left: 150px;
+    margin-top: 15px;
+    width: max-content;
+    border-radius: 30px;
+}
+.img3{
+    margin-left: 150px;
+    margin-top: 15px;
+    width: max-content;
+    border-radius: 30px;
+}
+.span1{
+    color: white;
+    margin-top: 35px;
+    font-size: 50px;
+}
+.span2{
+    color: white;
+    margin-top: 35px;
+    font-size: 50px;
+}
+.span3{
+    color: white;
+    margin-top: 35px;
+    font-size: 50px;
+}
